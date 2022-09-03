@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(21, 181, 234);
+    text-align: center;
+    font-size: 30px;
+  }
+  h1 {
+    color: rgb(234, 25, 21);
+    text-align: center;
+    font-size: 100px;
+    border-style: solid;
+    border-width: 5px;
+    background: white;
+  }
+  h2 {
+    color: rgb(234, 25, 21);
+    font-family: verdana;
+    font-size: 40px;
+    text-align: center;
+  }
+  div {
+    display: flex;
+    flex-direction: row;
+  }
+  #p1 {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: auto;
+    color: rgb(15, 107, 137);
+    background-image: url(images/getty.jpeg);
+  }
+  #p2 {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: auto;
+    color: rgb(15, 107, 137);
+    background-image: url(images/getty.jpeg);
+  }
+  
